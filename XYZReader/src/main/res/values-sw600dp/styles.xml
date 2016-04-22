@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <style name="ArticleDetail" parent="@style/Theme.AppCompat.Dialog">
+                <item name="windowNoTitle">true</item>
+                <item name="android:homeAsUpIndicator">@android:drawable/ic_menu_close_clear_cancel</item>
+        </style>
+</resources>

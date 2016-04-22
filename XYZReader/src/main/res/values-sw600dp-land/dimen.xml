@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="article_detail_max_image_height">300dp</dimen>
+</resources>
